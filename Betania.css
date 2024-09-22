@@ -1,0 +1,109 @@
+header{
+    position:fixed;
+    top: 0px;
+    z-index: 1;
+    background-image:url("Betania4.jpg");
+    background-size: cover;
+    width: 100%;
+    font-family: sans-serif;
+}
+#motto{
+    text-align: right;
+    font-size: 20px;
+    color: rgb(180, 187, 224);
+    padding-right: 50px;
+    
+}
+#new{
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline ;
+}
+#new1{
+    text-align: center;
+    font-size: 35px;
+}
+#Locatie{
+    font-size: 30px;
+    background-color:(180, 187, 224);
+    color:black;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: none;
+    a:link, a:visited {
+        color: black;
+        font-weight: bold;
+       }
+}
+nav{
+    margin-top: 40px;
+}
+#menu{
+    text-align: right;
+    margin-right: 70px;
+    font-size: 20px;
+}
+#menu li{
+    display: inline;
+    margin: 80px;
+    list-style-type: none; 
+    color: (180, 187, 224);
+}
+#menu li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 10px;
+    color: black;
+}
+.schatten{
+    background-image:url("schatten.png");
+    background-repeat: repeat;
+    height: 12px;
+}
+P,h1{
+    margin: 0px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    margin-left: auto;
+    margin-right:auto;
+    background-color:  rgb(180, 187, 224);
+    font-family: sans-serif;
+}
+section{
+    margin-top: 140px;
+}
+#bild{
+    height: 350px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+#clear{
+    clear:left;
+}
+li{
+    margin-left: 20px;
+}
+#menu li a:hover{
+    color: crimson;
+}
+#beschriftung{
+    color: black;
+    text-align: left;
+    font-size: 35px;
+}
+#beschriftung1{
+    color: rgb(43, 45, 71);
+    font-size: 25px;
+    margin-right: 170px;
+}
+#beschriftung2{
+    text-align: left;
+}
+
