@@ -1,6 +1,10 @@
 @media only screen and ( min-width: 950px ) {
     /* breites Browserfenster */
    }
+@media only screen and ( max-width: 440px ) {
+    /* mobile Geräte */
+@media only screen and ( min-width: 440px ) and ( max-width: 950px ) {
+    /* Tablets und mittlere Bildschirme */
 header{
     position:fixed;
     top: 0px;
