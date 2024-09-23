@@ -3,8 +3,10 @@
    }
 @media only screen and ( max-width: 440px ) {
     /* mobile Geräte */
+}
 @media only screen and ( min-width: 440px ) and ( max-width: 950px ) {
     /* Tablets und mittlere Bildschirme */
+}
 header{
     position:fixed;
     top: 0px;
@@ -52,7 +54,7 @@ nav{
 }
 #menu li{
     display: inline;
-    margin: 80px;
+    margin: 50px;
     list-style-type: none; 
     color: (180, 187, 224);
 }
